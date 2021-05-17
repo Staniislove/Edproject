@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ProjectPRT\ProjectPRT\bin\Debug\ProjectPRT.exe.config
+C:\Users\Admin\source\repos\ProjectPRT\ProjectPRT\bin\Debug\ProjectPRT.exe
+C:\Users\Admin\source\repos\ProjectPRT\ProjectPRT\bin\Debug\ProjectPRT.pdb
+C:\Users\Admin\source\repos\ProjectPRT\ProjectPRT\obj\Debug\ProjectPRT.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ProjectPRT\ProjectPRT\obj\Debug\ProjectPRT.Form1.resources
+C:\Users\Admin\source\repos\ProjectPRT\ProjectPRT\obj\Debug\ProjectPRT.Properties.Resources.resources
+C:\Users\Admin\source\repos\ProjectPRT\ProjectPRT\obj\Debug\ProjectPRT.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ProjectPRT\ProjectPRT\obj\Debug\ProjectPRT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProjectPRT\ProjectPRT\obj\Debug\ProjectPRT.exe
+C:\Users\Admin\source\repos\ProjectPRT\ProjectPRT\obj\Debug\ProjectPRT.pdb
